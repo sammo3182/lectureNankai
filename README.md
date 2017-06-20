@@ -1,2 +1,3 @@
-# lectureNankai
-Guess lecture in Nankai University
+# Lecture @Nankai
+
+Guest lecture in Zhou Enlai School of Government, Nankai University.
