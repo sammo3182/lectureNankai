@@ -80,7 +80,66 @@ bib[c("Solt2016", "Solt2017", "Tang2016")]
 
 # Strategies
 
+## Question, Question...
+* What's a good question?
+    +  Powerful and Attractive
+
+----
+
+* Powerful
+    + Clear
+    + Creative
+    + Important (General)
+    
+* Example:
+    + Tang et al. 2016: Proficiency $\rightarrow$ ethnic inequality
+    + Solt et al. 2016: Inequality $\rightarrow$ class consciousness
+    + Solt et al. 2017: Inequality $\rightarrow$ Meritocracy
+
+----
+
+* Attractive
+    + Mind-blowing
+    + Simple
+    + Sufficient
+
+* Example (revisited):
+    + Tang et al. 2016: Proficiency $\rightarrow$ ethnic inequality
+    + Solt et al. 2016: Inequality $\rightarrow$ class consciousness
+    + Solt et al. 2017: Inequality $\rightarrow$ Meritocracy
+    
+----
+
+* So, does your research question like her?<br><br><div class="centered">
+<img src="http://s-media-cache-ak0.pinimg.com/originals/3e/8a/19/3e8a1985313955437304a3363ed28301.gif" height = 300 />
+</div>
+    
+
+## Where Are You, My Research Topic?
+* Where does question come from? 
+    + Some deep thoughts?
+    + Some experience?
+    + Movie, TV, music?
+    
+* Where do most questions come from?
+    + Your advisor
+    + Office hours
+    + 
+
+
+
+## Where Does the Theory Come from?
+
+## Theoretical $\rightarrow$ Opertional
+
+
 # Methods
+
+## Where Does the Data Come from?
+
+## What Method Should I Use?
+
+## How to Report the Results?
 
 # Class Ends...
 <div class="centered">
