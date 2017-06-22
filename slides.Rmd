@@ -41,11 +41,13 @@ set.seed(313)
 
 
 
-## What Shall We Discuss Today?
+## What Shall We Discuss?
 
 How to conduct a political scientific research?
 
 * Taking inequality as an example.
+    + Informational: not very much.
+    + Pratical: Yeah!
 * Two parts:
     + Strategy
     + Method
@@ -63,10 +65,10 @@ BibOptions(check.entries = FALSE,
     
 ----
 
-Three examples
+Two examples
 
 ```{r results="asis"}
-bib[c("Solt2016", "Solt2017", "Tang2016")]
+bib[c("Solt2017", "Solt2016", "Tang2016")]
 ```
 
 * READY TO START?<br><br><div class="centered">
@@ -80,57 +82,90 @@ bib[c("Solt2016", "Solt2017", "Tang2016")]
 
 # Strategies
 
+## What's My Topic?
+
+* Inequality. Yes.
+    + Where does most question come from? 
+        + Some deep thoughts? 
+            + <span style="color:red">Nope.</span>
+        + Some personal experience? 
+            + <span style="color:red">Nope.</span>
+        + Movie, TV, music? 
+            + <span style="color:red">Probably, but nope.</span>
+            
+----
+
+Where should you look for?
+
+* Some other paper, e.g., Solt et al. 2017.
+* Term paper, e.g., Solt et al. 2017.
+* Your faculty, e.g., Tang et al. 2016.
+
+
+
 ## Question, Question...
-* What's a good question?
-    +  Powerful and Attractive
+* What's a good question? (KKV 1994)
+    + Important
+    + Suspected
+    + Ignored or misunderstood, 
 
-----
 
+## Pratical Rules
 * Powerful
-    + Clear
-    + Creative
-    + Important (General)
+    + Curious
+    + Contributive
+    + Falsified
     
-* Example:
-    + Tang et al. 2016: Proficiency $\rightarrow$ ethnic inequality
-    + Solt et al. 2016: Inequality $\rightarrow$ class consciousness
-    + Solt et al. 2017: Inequality $\rightarrow$ Meritocracy
-
-----
-
 * Attractive
     + Mind-blowing
     + Simple
     + Sufficient
 
-* Example (revisited):
-    + Tang et al. 2016: Proficiency $\rightarrow$ ethnic inequality
-    + Solt et al. 2016: Inequality $\rightarrow$ class consciousness
-    + Solt et al. 2017: Inequality $\rightarrow$ Meritocracy
-    
+
+
+## Example: Tang et al. 2016
+
+
+## Example: Solt et al. 2016
+
 ----
 
-* So, does your research question like her?<br><br><div class="centered">
-<img src="http://s-media-cache-ak0.pinimg.com/originals/3e/8a/19/3e8a1985313955437304a3363ed28301.gif" height = 300 />
+* So, does your research question like her/him?
+    + <div class="centered">
+<img src="http://assets1.ignimgs.com/2017/03/06/wonderwoman-1280-9amembargo-1488818748850_1280w.jpg" height = 250 />
+</div>
+    + <div class="centered">
+<img src="http://www.cbr.com/wp-content/uploads/robot6/2016/03/FB_Superman.jpg" height = 250 />
 </div>
     
 
-## Where Are You, My Research Topic?
-* Where does question come from? 
-    + Some deep thoughts?
-    + Some experience?
-    + Movie, TV, music?
-    
-* Where do most questions come from?
-    + Your advisor
-    + Office hours
-    + 
+## Where Are You, My Research Question?
+
+* Office hours
+* Literature
+* <span style="color:red">Chat</span>
+
+
+## Theory or Myth?
+* What's a theory? 
+* Something like this?<br><br><div class="centered">
+<img src="http://www.med.upenn.edu/hbhe4/images/9_1.gif" height = 400 />
+</div>
+
+----
+
+Yes, and no.
+
+* Principles:
+    + Scientific (Popper 1968)
+        + Consistent
+        + Falsifiable
+    + Validity: causal inference.
 
 
 
-## Where Does the Theory Come from?
 
-## Theoretical $\rightarrow$ Opertional
+## Hypotheses: Theoretical $\rightarrow$ Opertional
 
 
 # Methods
