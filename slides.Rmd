@@ -369,7 +369,61 @@ Hypothesis: Poor people living with high inequality believe in meritocracy more/
 * Do I present the results in the most efficient way?
 * <span style="color:yellow">Don't forget to chat with your adviser, faculty members, and colleagues!</span>
 
+# A Comprehensive Case
+## Tang, Hu, and Jin 2016
+* Research Question
+    + Ethnic Inequality in Occupation in China?
+    + Education vs. Language?<br><br><div class="centered">
+<img src="http://factsanddetails.com/media/2/20080304-minorities%20poster.jpg" height = 300 />
+</div>
 
+## Theory
+
+* Educational inequality $\rightarrow$ Job Attainment $\rightarrow$ Income
+* Mandarin Proficiency $\rightarrow$ Job Attainment $\rightarrow$ Income
+* Object: Han vis-&#224;-vis Uyghur
+* Hypotheses:
+    1. Equal educational attainment;
+    1. Unequal mandarin proficiency;
+    1. Unequal high socioeconomic status;
+    1. Mandarin proficiency improves Uyghur's socioeconomic attainment
+
+## Data
+
+* 2012 China Labor-Force Dynamics Survey (CLDS)
+* 2006–2007 Chinese Ethnicity Survey
+
+## Method and Results
+
+* Equal educational attainment.<br><br><div class="centered">
+<img src="image/hanWei.png" height = 450 />
+</div>
+
+----
+
+* Unequal mandarin proficiency.<br><br><div class="centered">
+<img src="image/manInequal.png" height = 450 width = 800 />
+</div>
+
+----
+
+* Unequal high socioeconomic status.<br><br><div class="centered">
+<img src="image/jobInequal.png" height = 450 width = 800 />
+</div>
+
+----
+
+* Mandarin proficiency improves Uyghur's socioeconomic attainment.<br><br><div class="centered">
+<img src="image/sem.png" height = 450 />
+</div>
+
+
+## Conclusion
+
+* Equal education
+* Preferred ethnic policy $\rightarrow$ Low Mandarin proficiency $\rightarrow$ Unequal job attainment.
+* Biased focus $\rightarrow$ biased conclusion.
+* Dilemma for policy makers.
 
 # Some Tips for Qualitative Fellows
 ## How Can I Be a Qualitative Social Scientist?
@@ -387,7 +441,7 @@ Coauthor with me and other quantitative scholars---WE NEED YOU!<br><br><div clas
 ## Where can you find the slides?
 My Homepage: https://sammo3182.github.io/
 
-## Questions? Ask Me ANYTHING!
+## Questions?
 <div class="centered">
 <img src="http://static.comicvine.com/uploads/original/11123/111239784/5369046-5100930-batman-come-at-me-bro.gif" height = 500 />
 </div>
