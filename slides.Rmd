@@ -132,7 +132,8 @@ Where should you look for?
 
 ## Example: Solt et al. 2016
 
-* Low-income group $\rightarrow$ Income inequality $\rightarrow$ Class consciousness<br><br><div class="centered">
+* Low-income group $\rightarrow$ Income inequality $\rightarrow$ Meritocracy
+    + Meritocracy<br><br><div class="centered">
 <img src="http://media.yayomg.com/wp-content/uploads/2016/03/yayomg-zootopia-character-quiz-4.gif" height = 200 />
 </div>
     + Poor vs. Rich
@@ -188,25 +189,23 @@ Where should you look for?
     + Economic comparison
     + Relative economic position
     
-* Low-income group $\rightarrow$ Income inequality <br><br><div class="centered">
-<img src="http://st2.depositphotos.com/3343629/11463/i/950/depositphotos_114639548-stock-photo-social-inequality-between-rich-poor.jpg" height = 200 />
+* Low-income group $\rightarrow$ More income inequality $\rightarrow$ More class consciousness<br><br><div class="centered">
+<img src="http://lovelace-media.imgix.net/uploads/1390/a7cf7180-cd22-0133-f0ec-0a6c20e5e327.gif" height = 200 />
 </div>
 
 
 ## Example: Solt et al. 2016
 
 * Conflict theory (Brady 2004; Oliver 2001)
-    + Inequality $\rightarrow$ awakening $\rightarrow$ fight for redistribution<br><br><div class="centered">
-<img src="http://img.gifmagazine.net/gifmagazine/images/463474/original.gif" height = 300 />
-</div>
+    + Inequality $\rightarrow$ awakening $\rightarrow$ fight for redistribution
+    + <div class="centered"><img src="http://img.gifmagazine.net/gifmagazine/images/463474/original.gif" height = 300 /></div>
 
 ----
 
 * Relative power theory (Solt 2010)
     + Money = political source
-    + The riches teach the poor <br><br><div class="centered">
-<img src="http://4.bp.blogspot.com/-P2ucjgNCfhU/Vx_A0IwQt8I/AAAAAAAAIHE/ZaH5zDUwR_4sWzrGLqhu6m2jQZSnCHFUwCLcB/s1600/9%2BHYPNOSIS.gif" height = 300 />
-</div>
+    + The riches teach the poor 
+    + <div class="centered"><img src="http://4.bp.blogspot.com/-P2ucjgNCfhU/Vx_A0IwQt8I/AAAAAAAAIHE/ZaH5zDUwR_4sWzrGLqhu6m2jQZSnCHFUwCLcB/s1600/9%2BHYPNOSIS.gif" height = 300 /></div>
 
 
 
@@ -349,7 +348,7 @@ Hypothesis: Poor people living with high inequality believe in meritocracy more/
 * Kastellec and Leoni (2007): Plot
     + Efficient & Focused
 * Example: Solt et al. 2016 <br><br><div class="centered">
-<img src="image/dotwhisker.jpg" height = 500 />
+<img src="image/dotwhisker.jpg" height = 450 />
 </div>
 
 ## How about Interaction
