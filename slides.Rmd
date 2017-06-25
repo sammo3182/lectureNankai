@@ -65,7 +65,7 @@ BibOptions(check.entries = FALSE,
     
 ----
 
-Two examples
+Three examples
 
 ```{r results="asis"}
 bib[c("Solt2017", "Solt2016", "Tang2016")]
@@ -85,13 +85,14 @@ bib[c("Solt2017", "Solt2016", "Tang2016")]
 ## What's My Topic?
 
 * Inequality. Yes.
-    + Where does most question come from? 
-        + Some deep thoughts? 
-            + <span style="color:red">Nope.</span>
-        + Some personal experience? 
-            + <span style="color:red">Nope.</span>
-        + Movie, TV, music? 
-            + <span style="color:red">Probably, but nope.</span>
+    + Where does it come from?
+* Where do most questions come from? 
+    + Some deep thoughts? 
+        + <span style="color:red">Nope.</span>
+    + Some personal experience? 
+        + <span style="color:red">Nope.</span>
+    + Movie, TV, music? 
+        + <span style="color:red">Probably, but nope.</span>
             
 ----
 
@@ -106,19 +107,19 @@ Where should you look for?
 * What's a good question? (KKV 1994)
     + Important
     + Potentially failed
-    + Ignored or misunderstood, 
+    + Ignored or misunderstood
 
 
 ## Pratical Rules
 * Powerful
     + Curious
-    + Punchy
+    + General
     + Falsified
     
 * Attractive
     + Mind-blowing
     + Simple
-    + Sufficient
+    + Punchy
 
 
 
