@@ -65,10 +65,10 @@ BibOptions(check.entries = FALSE,
     
 ----
 
-Three examples
+Two examples
 
 ```{r results="asis"}
-bib[c("Solt2017", "Solt2016", "Tang2016")]
+bib[c("Solt2017", "Solt2016")]
 ```
 
 * READY TO START?<br><br><div class="centered">
